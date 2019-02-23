@@ -1,0 +1,38 @@
+input {
+    margin: 10px 0px;
+    padding: 10px;
+}
+.qeydiyyat{
+
+
+    margin-left: 400px;
+    background: red;
+
+    width: 100px;
+}
+.register{
+    background: gold;
+    padding:12px  45px;
+    border-radius: 50px;
+    color:white
+}
+.register:hover{
+    background: greenyellow
+}
+.register:active{
+    background: black
+}ul{
+    float:right;
+    list-style:none;
+}
+ul li{
+    float:left;
+    padding:20px;
+font-family: fantasy;
+}
+div{
+    height:100px;
+    color:white;
+    width: 100%;
+    background: black
+}
